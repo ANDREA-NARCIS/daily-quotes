@@ -17,7 +17,7 @@ jobs:
 
       - name: Get Random Quote
         run: |
-          curl -s https://api.quotable.io/random > quote.json
+          curl -sk https://api.quotable.io/random > quote.json
           QUOTE=$(jq -r '.content' quote.json)
           AUTHOR=$(jq -r '.author' quote.json)
 
