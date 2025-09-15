@@ -10,11 +10,6 @@ Each day, the workflow fetches a random quote from [Quotable API](https://api.qu
   2. Updates the `quotes.md` file with the new quote.  
   3. Commits and pushes the changes back to this repository.  
 
-## 📖 Today's Quote
-<!--START_QUOTE-->
-Loading daily quote...
-<!--END_QUOTE-->
-
 ✅ Every update also counts as a **GitHub contribution**, helping keep my contribution graph active with meaningful commits.  
 
 ## 📂 Files
