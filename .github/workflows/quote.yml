@@ -6,7 +6,7 @@ on:
   workflow_dispatch:       # Manual trigger
 
 permissions:
-  contents: write    # <-- allows commit & push
+  contents: write    # allow pushing changes
 
 jobs:
   update-quote:
@@ -26,16 +26,20 @@ jobs:
           QUOTE=$(jq -r '.content' quote.json)
           AUTHOR=$(jq -r '.author' quote.json)
 
+          # Update quotes.md (keeps latest only)
           echo "# Daily Quote" > quotes.md
           echo "" >> quotes.md
           echo "> $QUOTE" >> quotes.md
           echo "" >> quotes.md
           echo "— $AUTHOR" >> quotes.md
 
+          # Update README.md section
+          sed -i '/<!--START_QUOTE-->/,<!--END_QUOTE-->/c\<!--START_QUOTE-->\n> '"$QUOTE"'\n\n— '"$AUTHOR"'\n<!--END_QUOTE-->' README.md
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add quotes.md || true
-          git commit -m "Update quote: $(date)" || echo "No changes to commit"
+          git add quotes.md README.md || true
+          git commit -m "Update daily quote: $(date)" || echo "No changes to commit"
           git push
