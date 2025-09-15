@@ -17,7 +17,7 @@ jobs:
         run: sudo apt-get install -y jq
 
       - name: Fetch a new quote
-        run: curl -s https://api.quotable.io/random > quote.json
+        run: curl -sk https://api.quotable.io/random > quote.json
 
       - name: Update README with new quote
         run: |
