@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Be like the flower, turn your face to the sun.
+> Love is rarer than genius itself. And friendship is rarer than love.
 
-— Kahlil Gibran
+— Charles Péguy
