@@ -1,45 +1,41 @@
-name: Update Daily Quote
+name: Update Quote
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # Runs daily at 06:00 UTC
-  workflow_dispatch:       # Manual trigger
-
-permissions:
-  contents: write    # allow pushing changes
+    - cron: "0 6 * * *" # Runs every day at 06:00 UTC
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install tools
-        run: sudo apt-get update && sudo apt-get install -y jq curl
+      - name: Install jq
+        run: sudo apt-get install -y jq
 
-      - name: Get Random Quote
+      - name: Fetch a new quote
+        run: curl -s https://api.quotable.io/random > quote.json
+
+      - name: Update README with new quote
         run: |
-          curl -sk https://api.quotable.io/random > quote.json
           QUOTE=$(jq -r '.content' quote.json)
           AUTHOR=$(jq -r '.author' quote.json)
 
-          # Update quotes.md (keeps latest only)
-          echo "# Daily Quote" > quotes.md
-          echo "" >> quotes.md
-          echo "> $QUOTE" >> quotes.md
-          echo "" >> quotes.md
-          echo "— $AUTHOR" >> quotes.md
+          # Escape special characters for sed
+          QUOTE_ESCAPED=$(printf '%s' "$QUOTE" | sed 's/[&/\]/\\&/g')
+          AUTHOR_ESCAPED=$(printf '%s' "$AUTHOR" | sed 's/[&/\]/\\&/g')
 
-          # Update README.md section
-          sed -i '/<!--START_QUOTE-->/,<!--END_QUOTE-->/c\<!--START_QUOTE-->\n> '"$QUOTE"'\n\n— '"$AUTHOR"'\n<!--END_QUOTE-->' README.md
+          sed -i "/<!--START_QUOTE-->/,/<!--END_QUOTE-->/c\\<!--START_QUOTE-->\n> $QUOTE_ESCAPED\n— $AUTHOR_ESCAPED\n<!--END_QUOTE-->" README.md
 
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add quotes.md README.md || true
-          git commit -m "Update daily quote: $(date)" || echo "No changes to commit"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update daily quote" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
