@@ -28,14 +28,16 @@ jobs:
           QUOTE_ESCAPED=$(printf '%s' "$QUOTE" | sed 's/[&/\]/\\&/g')
           AUTHOR_ESCAPED=$(printf '%s' "$AUTHOR" | sed 's/[&/\]/\\&/g')
 
+          # Update README.md
           sed -i "/<!--START_QUOTE-->/,/<!--END_QUOTE-->/c\\<!--START_QUOTE-->\n> $QUOTE_ESCAPED\n— $AUTHOR_ESCAPED\n<!--END_QUOTE-->" README.md
+
+          # Append to quotes.md to keep history
+          echo -e "### $(date '+%Y-%m-%d')\n> $QUOTE_ESCAPED\n— $AUTHOR_ESCAPED\n" >> quotes.md
 
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add README.md quotes.md
           git commit -m "Update daily quote" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ANDREA-NARCIS/daily-quotes.git main
