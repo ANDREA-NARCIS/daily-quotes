@@ -1,4 +1,3 @@
-# Daily Quote
 name: Update Daily Quote
 
 on:
@@ -12,6 +11,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
 
       - name: Get Random Quote
         run: |
@@ -29,5 +31,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add quotes.md
-          git commit -m "Update quote: $(date)"
+          git commit -m "Update quote: $(date)" || echo "No changes to commit"
           git push
