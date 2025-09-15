@@ -1,38 +1,36 @@
-name: Update Quote
+name: Update Daily Quote
 
 on:
   schedule:
-    - cron: "0 6 * * *" # Runs every day at 06:00 UTC
-  workflow_dispatch: # Allow manual trigger
+    - cron: "0 6 * * *"   # Runs daily at 06:00 UTC
+  workflow_dispatch:       # Manual trigger
+
+permissions:
+  contents: write    # <-- allows commit & push
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install jq
-        run: sudo apt-get install -y jq
+      - name: Install tools
+        run: sudo apt-get update && sudo apt-get install -y jq curl
 
-      - name: Fetch a new quote
-        run: curl -sk https://api.quotable.io/random > quote.json
-
-      - name: Update README with new quote
+      - name: Get Random Quote
         run: |
+          curl -sk https://api.quotable.io/random > quote.json
           QUOTE=$(jq -r '.content' quote.json)
           AUTHOR=$(jq -r '.author' quote.json)
 
-          # Escape special characters for sed
-          QUOTE_ESCAPED=$(printf '%s' "$QUOTE" | sed 's/[&/\]/\\&/g')
-          AUTHOR_ESCAPED=$(printf '%s' "$AUTHOR" | sed 's/[&/\]/\\&/g')
-
-          # Update README.md
-          sed -i "/<!--START_QUOTE-->/,/<!--END_QUOTE-->/c\\<!--START_QUOTE-->\n> $QUOTE_ESCAPED\n— $AUTHOR_ESCAPED\n<!--END_QUOTE-->" README.md
-
-          # Append to quotes.md to keep history
-          echo -e "### $(date '+%Y-%m-%d')\n> $QUOTE_ESCAPED\n— $AUTHOR_ESCAPED\n" >> quotes.md
+          echo "# Daily Quote" > quotes.md
+          echo "" >> quotes.md
+          echo "> $QUOTE" >> quotes.md
+          echo "" >> quotes.md
+          echo "— $AUTHOR" >> quotes.md
 
       - name: Commit changes
         run: |
@@ -40,4 +38,4 @@ jobs:
           git config --global user.email "actions@github.com"
           git add quotes.md || true
           git commit -m "Update quote: $(date)" || echo "No changes to commit"
-          git push    
+          git push
