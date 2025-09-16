@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> If you love life, don't waste time, for time is what life is made up of.
 
-— Charles Péguy
+— Bruce Lee
