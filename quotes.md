@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Every man is a volume if you know how to read him.
 
-— Bruce Lee
+— William Ellery Channing
