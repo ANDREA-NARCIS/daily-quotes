@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Every man is a volume if you know how to read him.
+> Nothing in life is so exhilarating as to be shot at without result.
 
-— William Ellery Channing
+— Winston Churchill
