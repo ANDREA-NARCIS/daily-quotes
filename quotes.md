@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
 
 — Winston Churchill
