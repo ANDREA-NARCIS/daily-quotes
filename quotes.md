@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We are Divine enough to ask and we are important enough to receive.
+> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
 
-— Wayne Dyer
+— Democritus
