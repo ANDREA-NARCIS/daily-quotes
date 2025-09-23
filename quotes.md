@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 
-— John Burroughs
+— Peter Drucker
