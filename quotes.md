@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
 
-— Peter Drucker
+— Epictetus
