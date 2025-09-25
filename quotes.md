@@ -1,5 +1,5 @@
 # Daily Quote
 
-> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 
-— Epictetus
+— Carl Jung
