@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 
-— Carl Jung
+— William Arthur Ward
