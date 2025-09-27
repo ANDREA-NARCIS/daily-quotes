@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
 
-— William Arthur Ward
+— The Buddha
