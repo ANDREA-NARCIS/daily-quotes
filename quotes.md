@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
+> I know but one freedom and that is the freedom of the mind.
 
-— The Buddha
+— Antoine de Saint-Exupéry
