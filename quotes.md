@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I know but one freedom and that is the freedom of the mind.
+> If I know what love is, it is because of you.
 
-— Antoine de Saint-Exupéry
+— Hermann Hesse
