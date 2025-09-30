@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If I know what love is, it is because of you.
+> Time is the most valuable thing a man can spend.
 
-— Hermann Hesse
+— Theophrastus
