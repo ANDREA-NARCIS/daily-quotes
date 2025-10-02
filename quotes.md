@@ -1,5 +1,5 @@
 # Daily Quote
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
 
-— Confucius
+— Sydney J. Harris
