@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 
-— Sydney J. Harris
+— Sophocles
