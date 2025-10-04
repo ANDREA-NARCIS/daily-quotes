@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
 
-— Sophocles
+— Winston Churchill
