@@ -1,5 +1,5 @@
 # Daily Quote
 
-> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
+> The world is but a canvas to the imagination.
 
-— Winston Churchill
+— Henry David Thoreau
