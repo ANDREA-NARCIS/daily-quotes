@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The world is but a canvas to the imagination.
+> Life is a succession of moments. To live each one is to succeed.
 
-— Henry David Thoreau
+— Corita Kent
