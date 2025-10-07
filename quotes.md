@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Life is a succession of moments. To live each one is to succeed.
+> Love is rarer than genius itself. And friendship is rarer than love.
 
-— Corita Kent
+— Charles Péguy
