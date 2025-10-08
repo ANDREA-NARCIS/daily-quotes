@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> Gratitude is the fairest blossom which springs from the soul.
 
-— Charles Péguy
+— Henry K. Beecher
