@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Gratitude is the fairest blossom which springs from the soul.
+> Quality means doing it right when no one is looking.
 
-— Henry K. Beecher
+— Henry Ford
