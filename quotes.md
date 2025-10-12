@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Life is what you make of it. Always has been, always will be.
+> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
 
-— Grandma Moses
+— Molière
