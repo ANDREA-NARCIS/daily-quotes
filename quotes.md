@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Love demands infinitely less than friendship.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 
-— George Jean Nathan
+— Paavo Nurmi
