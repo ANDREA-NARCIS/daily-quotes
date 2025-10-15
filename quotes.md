@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
 
-— Paavo Nurmi
+— Napoleon Hill
