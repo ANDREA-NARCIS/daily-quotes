@@ -1,5 +1,5 @@
 # Daily Quote
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
 
-— Napoleon Hill
+— Leonardo da Vinci
