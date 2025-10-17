@@ -1,5 +1,5 @@
 # Daily Quote
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
 
-— Leonardo da Vinci
+— Henry James
