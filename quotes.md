@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+> Memory is the mother of all wisdom.
 
-— Henry James
+— Samuel Johnson
