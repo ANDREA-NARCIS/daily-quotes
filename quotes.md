@@ -1,5 +1,5 @@
 # Daily Quote
 
-> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 
-— Oprah Winfrey
+— Peter Drucker
