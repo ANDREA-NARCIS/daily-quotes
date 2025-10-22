@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There is nothing so useless as doing efficiently that which should not be done at all.
+> Don't leave a stone unturned. It's always something, to know you have done the most you could.
 
-— Peter Drucker
+— Charles Dickens
