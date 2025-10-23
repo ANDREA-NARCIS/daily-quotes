@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Don't leave a stone unturned. It's always something, to know you have done the most you could.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 
-— Charles Dickens
+— Charles Caleb Colton
