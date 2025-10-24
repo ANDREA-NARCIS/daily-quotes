@@ -1,5 +1,5 @@
 # Daily Quote
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> Life is what happens to you while you're busy making other plans.
 
-— Charles Caleb Colton
+— John Lennon
