@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Life is what happens to you while you're busy making other plans.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 
-— John Lennon
+— Henry Reed
