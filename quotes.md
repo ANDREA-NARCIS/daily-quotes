@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Always keep an open mind and a compassionate heart.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 
-— Phil Jackson
+— Benjamin Disraeli
