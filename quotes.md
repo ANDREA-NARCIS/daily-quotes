@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The greatest good you can do for another is not just share your riches but reveal to them their own.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 
-— Benjamin Disraeli
+— Eleanor Roosevelt
