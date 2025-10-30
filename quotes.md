@@ -1,5 +1,5 @@
 # Daily Quote
 
-> He who angers you conquers you.
+> With pride, there are many curses. With humility, there come many blessings.
 
-— Elizabeth Kenny
+— Ezra Taft Benson
