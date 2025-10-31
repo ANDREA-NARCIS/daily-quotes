@@ -1,5 +1,5 @@
 # Daily Quote
 
-> With pride, there are many curses. With humility, there come many blessings.
+> In the middle of every difficulty lies opportunity.
 
-— Ezra Taft Benson
+— Albert Einstein
