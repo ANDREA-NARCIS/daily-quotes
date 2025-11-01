@@ -1,5 +1,5 @@
 # Daily Quote
 
-> In the middle of every difficulty lies opportunity.
+> People may doubt what you say, but they will believe what you do.
 
-— Albert Einstein
+— Lewis Cass
