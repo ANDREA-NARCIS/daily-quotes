@@ -1,5 +1,5 @@
 # Daily Quote
 
-> People may doubt what you say, but they will believe what you do.
+> You don't choose your family. They are God's gift to you, as you are to them.
 
-— Lewis Cass
+— Desmond Tutu
