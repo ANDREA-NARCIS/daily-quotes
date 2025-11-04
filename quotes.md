@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.
+> A man is not old as long as he is seeking something.
 
-— Richard Bach
+— Edmond Rostand
