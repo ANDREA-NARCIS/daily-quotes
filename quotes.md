@@ -1,5 +1,5 @@
 # Daily Quote
 
-> A man is not old as long as he is seeking something.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 
-— Edmond Rostand
+— Charles Du Bos
