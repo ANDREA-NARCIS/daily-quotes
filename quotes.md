@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 
-— Charles Du Bos
+— Ralph Waldo Emerson
