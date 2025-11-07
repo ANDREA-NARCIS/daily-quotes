@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
+> Difficulties are things that show a person what they are.
 
-— Ralph Waldo Emerson
+— Epictetus
