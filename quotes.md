@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Difficulties are things that show a person what they are.
+> The only real valuable thing is intuition.
 
-— Epictetus
+— Albert Einstein
