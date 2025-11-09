@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The only real valuable thing is intuition.
+> The possibilities are numerous once we decide to act and not react.
 
-— Albert Einstein
+— George Bernard Shaw
