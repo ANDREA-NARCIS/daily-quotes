@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 
-— Alfred Tennyson
+— Sophocles
