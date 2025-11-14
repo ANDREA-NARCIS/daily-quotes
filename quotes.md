@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
 
-— William Blake
+— Brian O'Driscoll
