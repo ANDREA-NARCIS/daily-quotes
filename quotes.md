@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
 
-— Mariella Frostrup
+— Benjamin Franklin
