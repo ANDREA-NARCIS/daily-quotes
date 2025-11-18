@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Once you choose hope, anything's possible.
+> The thing always happens that you really believe in; and the belief in a thing makes it happen.
 
-— Christopher Reeve
+— Frank Lloyd Wright
