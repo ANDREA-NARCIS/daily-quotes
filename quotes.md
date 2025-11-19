@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The thing always happens that you really believe in; and the belief in a thing makes it happen.
+> The best preparation for tomorrow is doing your best today.
 
-— Frank Lloyd Wright
+— H. Jackson Brown Jr.
