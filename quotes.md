@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The best preparation for tomorrow is doing your best today.
+> We read the world wrong and say that it deceives us.
 
-— H. Jackson Brown Jr.
+— Rabindranath Tagore
