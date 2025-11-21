@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We read the world wrong and say that it deceives us.
+> While we stop to think, we often miss our opportunity.
 
-— Rabindranath Tagore
+— Publilius Syrus
