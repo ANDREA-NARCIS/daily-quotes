@@ -1,5 +1,5 @@
 # Daily Quote
 
-> While we stop to think, we often miss our opportunity.
+> He who has imagination without learning has wings but no feet.
 
-— Publilius Syrus
+— Joseph Joubert
