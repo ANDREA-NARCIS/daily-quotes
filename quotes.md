@@ -1,5 +1,5 @@
 # Daily Quote
 
-> He who has imagination without learning has wings but no feet.
+> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
 
-— Joseph Joubert
+— Nathaniel Hawthorne
