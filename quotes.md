@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
+> We must learn our limits. We are all something, but none of us are everything.
 
-— Nathaniel Hawthorne
+— Blaise Pascal
