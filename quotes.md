@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We must learn our limits. We are all something, but none of us are everything.
+> Winners never quit and quitters never win.
 
-— Blaise Pascal
+— Vince Lombardi
