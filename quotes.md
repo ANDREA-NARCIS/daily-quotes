@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Winners never quit and quitters never win.
+> Vanity can easily overtake wisdom. It usually overtakes common sense.
 
-— Vince Lombardi
+— Julian Casablancas
