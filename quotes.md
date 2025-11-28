@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible.
+> Always do your best. What you plant now, you will harvest later.
 
-— Albert Einstein
+— Og Mandino
