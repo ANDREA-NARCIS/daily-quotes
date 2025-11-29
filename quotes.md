@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Always do your best. What you plant now, you will harvest later.
+> All difficult things have their origin in that which is easy, and great things in that which is small.
 
-— Og Mandino
+— Laozi
