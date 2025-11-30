@@ -1,5 +1,5 @@
 # Daily Quote
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 
-— Laozi
+— Dalai Lama
