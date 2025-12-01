@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> Even if you're on the right track, you'll get run over if you just sit there.
 
-— Dalai Lama
+— Will Rogers
