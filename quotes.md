@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
 
-— Will Rogers
+— Winston Churchill
