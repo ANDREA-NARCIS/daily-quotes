@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
+> All wisdom does not reside in Delhi.
 
-— Winston Churchill
+— P. Chidambaram
