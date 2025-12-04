@@ -1,5 +1,5 @@
 # Daily Quote
 
-> All wisdom does not reside in Delhi.
+> Be less curious about people and more curious about ideas.
 
-— P. Chidambaram
+— Marie Curie
