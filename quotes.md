@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Be less curious about people and more curious about ideas.
+> Memory is the mother of all wisdom.
 
-— Marie Curie
+— Samuel Johnson
