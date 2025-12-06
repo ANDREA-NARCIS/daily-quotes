@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Memory is the mother of all wisdom.
+> Believe you can and you're halfway there.
 
-— Samuel Johnson
+— Theodore Roosevelt
