@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others
+> Nothing is at last sacred but the integrity of your own mind.
 
-— The Buddha
+— Ralph Waldo Emerson
