@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Nothing is at last sacred but the integrity of your own mind.
+> The function of wisdom is to discriminate between good and evil.
 
-— Ralph Waldo Emerson
+— Cicero
