@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The function of wisdom is to discriminate between good and evil.
+> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
 
-— Cicero
+— Mother Teresa
