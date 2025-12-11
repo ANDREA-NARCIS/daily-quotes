@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
 
-— Mother Teresa
+— Confucius
