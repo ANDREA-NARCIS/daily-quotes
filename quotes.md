@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
+> Freedom is not worth having if it does not connote freedom to err.
 
-— Confucius
+— Mahatma Gandhi
