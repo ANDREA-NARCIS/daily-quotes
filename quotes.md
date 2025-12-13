@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Freedom is not worth having if it does not connote freedom to err.
+> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
 
-— Mahatma Gandhi
+— Brian O'Driscoll
