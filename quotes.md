@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 
-— Brian O'Driscoll
+— Martha Washington
