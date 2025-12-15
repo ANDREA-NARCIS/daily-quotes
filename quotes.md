@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 
-— Martha Washington
+— Leo Buscaglia
