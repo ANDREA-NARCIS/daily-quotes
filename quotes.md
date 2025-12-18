@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 
-— Dalai Lama
+— Colin Powell
