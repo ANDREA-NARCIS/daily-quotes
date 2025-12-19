@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 
-— Colin Powell
+— George Bernard Shaw
