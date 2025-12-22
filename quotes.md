@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Fortune favors the brave.
+> I know but one freedom and that is the freedom of the mind.
 
-— Virgil
+— Antoine de Saint-Exupéry
