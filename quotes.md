@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I know but one freedom and that is the freedom of the mind.
+> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
 
-— Antoine de Saint-Exupéry
+— Dalai Lama
