@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
+> You can't shake hands with a clenched fist.
 
-— Dalai Lama
+— Indira Gandhi
