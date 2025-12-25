@@ -1,5 +1,5 @@
 # Daily Quote
 
-> You can't shake hands with a clenched fist.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 
-— Indira Gandhi
+— A. P. J. Abdul Kalam
