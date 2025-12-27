@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.
+> If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward.
 
-— Richard Bach
+— Thomas Edison
