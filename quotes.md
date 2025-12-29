@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Never put off till tomorrow what you can do today.
+> If you cannot do great things, do small things in a great way.
 
-— Thomas Jefferson
+— Napoleon Hill
