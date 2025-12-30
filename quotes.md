@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you cannot do great things, do small things in a great way.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 
-— Napoleon Hill
+— René Descartes
