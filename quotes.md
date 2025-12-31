@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> Being entirely honest with oneself is a good exercise.
 
-— René Descartes
+— Sigmund Freud
