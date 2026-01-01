@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Being entirely honest with oneself is a good exercise.
+> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
 
-— Sigmund Freud
+— Carlos Castaneda
