@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
+> He who conquers others is strong; He who conquers himself is mighty.
 
-— Carlos Castaneda
+— Laozi
