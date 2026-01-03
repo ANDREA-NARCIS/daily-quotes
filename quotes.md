@@ -1,5 +1,5 @@
 # Daily Quote
 
-> He who conquers others is strong; He who conquers himself is mighty.
+> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
 
-— Laozi
+— Dalai Lama
