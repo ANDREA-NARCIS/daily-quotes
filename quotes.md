@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 
-— Dalai Lama
+— Søren Kierkegaard
