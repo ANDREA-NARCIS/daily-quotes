@@ -1,5 +1,5 @@
 # Daily Quote
 
-> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+> Half the lies they tell about me aren't true.
 
-— Søren Kierkegaard
+— Yogi Berra
