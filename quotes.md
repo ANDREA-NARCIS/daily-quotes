@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Half the lies they tell about me aren't true.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 
-— Yogi Berra
+— Albert Einstein
