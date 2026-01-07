@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.
 
-— Albert Einstein
+— Abraham Lincoln
