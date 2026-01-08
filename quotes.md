@@ -1,5 +1,5 @@
 # Daily Quote
 
-> You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.
+> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
 
-— Abraham Lincoln
+— Alan Watts
