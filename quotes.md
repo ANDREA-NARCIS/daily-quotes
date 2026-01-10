@@ -1,5 +1,5 @@
 # Daily Quote
 
-> A ruffled mind makes a restless pillow.
+> Anything you really want, you can attain, if you really go after it.
 
-— Charlotte Brontë
+— Wayne Dyer
