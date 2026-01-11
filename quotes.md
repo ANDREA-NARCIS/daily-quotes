@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Anything you really want, you can attain, if you really go after it.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 
-— Wayne Dyer
+— Robert Louis Stevenson
