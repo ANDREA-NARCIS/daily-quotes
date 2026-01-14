@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The simplest things are often the truest.
+> So much technology, so little talent.
 
-— Richard Bach
+— Vernor Vinge
