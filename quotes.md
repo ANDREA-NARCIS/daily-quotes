@@ -1,5 +1,5 @@
 # Daily Quote
 
-> You don't look out there for God, something in the sky, you look in you.
+> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
 
-— Alan Watts
+— Janet Jackson
