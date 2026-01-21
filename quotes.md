@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Knowledge without justice ought to be called cunning rather than wisdom.
+> It is the quality of our work which will please God, not the quantity.
 
-— Plato
+— Mahatma Gandhi
