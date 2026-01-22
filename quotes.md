@@ -1,5 +1,5 @@
 # Daily Quote
 
-> It is the quality of our work which will please God, not the quantity.
+> Things turn out best for those who make the best of the way things turn out.
 
-— Mahatma Gandhi
+— Jack Buck
