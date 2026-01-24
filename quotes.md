@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Whatever happens, take responsibility.
+> There is no charm equal to tenderness of heart.
 
-— Tony Robbins
+— Jane Austen
