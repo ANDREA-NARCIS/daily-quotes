@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There is no charm equal to tenderness of heart.
+> Nothing happens unless first we dream.
 
-— Jane Austen
+— Carl Sandburg
