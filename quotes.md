@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Nothing happens unless first we dream.
+> All know the way; few actually walk it.
 
-— Carl Sandburg
+— Bodhidharma
