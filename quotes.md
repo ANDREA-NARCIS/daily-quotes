@@ -1,5 +1,5 @@
 # Daily Quote
 
-> All know the way; few actually walk it.
+> What do we live for, if it is not to make life less difficult for each other?
 
-— Bodhidharma
+— George Eliot
