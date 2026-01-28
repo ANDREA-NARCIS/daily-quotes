@@ -1,5 +1,5 @@
 # Daily Quote
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
 
-— George Eliot
+— Charles Dickens
