@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
+> Nine-tenths of wisdom is being wise in time.
 
-— Charles Dickens
+— Theodore Roosevelt
