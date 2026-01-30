@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Nine-tenths of wisdom is being wise in time.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 
-— Theodore Roosevelt
+— Ralph Waldo Emerson
