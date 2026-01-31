@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 
-— Ralph Waldo Emerson
+— Niels Bohr
