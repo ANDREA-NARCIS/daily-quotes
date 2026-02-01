@@ -1,5 +1,5 @@
 # Daily Quote
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> Learning is finding out what you already know.
 
-— Niels Bohr
+— Richard Bach
