@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Learning is finding out what you already know.
+> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
 
-— Richard Bach
+— Henry Wadsworth Longfellow
