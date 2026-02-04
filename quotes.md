@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Quick decisions are unsafe decisions.
+> If one does not know to which port is sailing, no wind is favorable.
 
-— Sophocles
+— Seneca the Younger
