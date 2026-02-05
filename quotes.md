@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If one does not know to which port is sailing, no wind is favorable.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 
-— Seneca the Younger
+— John F. Kennedy
