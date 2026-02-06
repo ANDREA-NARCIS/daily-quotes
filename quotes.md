@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> Things turn out best for those who make the best of the way things turn out.
 
-— John F. Kennedy
+— Jack Buck
