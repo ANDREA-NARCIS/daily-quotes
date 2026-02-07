@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Things turn out best for those who make the best of the way things turn out.
+> I never see what has been done; I only see what remains to be done.
 
-— Jack Buck
+— Marie Curie
