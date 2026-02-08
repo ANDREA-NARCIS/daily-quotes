@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I never see what has been done; I only see what remains to be done.
+> If I know what love is, it is because of you.
 
-— Marie Curie
+— Hermann Hesse
