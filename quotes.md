@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If I know what love is, it is because of you.
+> So long as a person is capable of self-renewal they are a living being.
 
-— Hermann Hesse
+— Henri-Frédéric Amiel
