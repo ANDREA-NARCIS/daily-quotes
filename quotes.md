@@ -1,5 +1,5 @@
 # Daily Quote
 
-> So long as a person is capable of self-renewal they are a living being.
+> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
 
-— Henri-Frédéric Amiel
+— Eleanor Roosevelt
