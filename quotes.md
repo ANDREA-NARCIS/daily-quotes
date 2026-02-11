@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
+> The winds and waves are always on the side of the ablest navigators.
 
-— Eleanor Roosevelt
+— Edward Gibbon
