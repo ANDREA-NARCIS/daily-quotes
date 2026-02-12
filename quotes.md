@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The winds and waves are always on the side of the ablest navigators.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 
-— Edward Gibbon
+— Wayne Dyer
