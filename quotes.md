@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> You cannot have what you do not want.
 
-— Wayne Dyer
+— John Acosta
