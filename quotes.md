@@ -1,5 +1,5 @@
 # Daily Quote
 
-> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
+> The future is completely open, and we are writing it moment to moment.
 
-— Abraham Lincoln
+— Pema Chödrön
