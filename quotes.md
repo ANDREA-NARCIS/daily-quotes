@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The future is completely open, and we are writing it moment to moment.
+> What is necessary to change a person is to change his awareness of himself.
 
-— Pema Chödrön
+— Abraham Maslow
