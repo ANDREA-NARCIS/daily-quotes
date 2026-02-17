@@ -1,5 +1,5 @@
 # Daily Quote
 
-> What is necessary to change a person is to change his awareness of himself.
+> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
 
-— Abraham Maslow
+— Rumi
