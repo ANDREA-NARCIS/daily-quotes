@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Change your thoughts and you change your world.
+> The differences between friends cannot but reinforce their friendship.
 
-— Norman Vincent Peale
+— Mao Zedong
