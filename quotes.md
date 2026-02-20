@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The differences between friends cannot but reinforce their friendship.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 
-— Mao Zedong
+— Cicero
