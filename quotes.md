@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 
-— Cicero
+— Charles Caleb Colton
