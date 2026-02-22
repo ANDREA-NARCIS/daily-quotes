@@ -1,5 +1,5 @@
 # Daily Quote
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
 
-— Charles Caleb Colton
+— Elisabeth Kübler-Ross
