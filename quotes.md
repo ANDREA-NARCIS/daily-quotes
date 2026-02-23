@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
+> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
 
-— Elisabeth Kübler-Ross
+— Bertrand Russell
