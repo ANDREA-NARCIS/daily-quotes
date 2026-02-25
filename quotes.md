@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Life has no blessing like a prudent friend.
+> Learn from yesterday, live for today, hope for tomorrow.
 
-— Euripides
+— Albert Einstein
