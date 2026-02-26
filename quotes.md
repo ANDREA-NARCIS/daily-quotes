@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Learn from yesterday, live for today, hope for tomorrow.
+> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
 
-— Albert Einstein
+— Marcus Aurelius
