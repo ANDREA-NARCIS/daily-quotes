@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
+> The language of friendship is not words but meanings.
 
-— Marcus Aurelius
+— Henry David Thoreau
