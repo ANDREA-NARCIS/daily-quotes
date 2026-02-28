@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The language of friendship is not words but meanings.
+> The more you care, the stronger you can be.
 
-— Henry David Thoreau
+— Jim Rohn
