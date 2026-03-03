@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
 
-— Abraham Lincoln
+— Laozi
