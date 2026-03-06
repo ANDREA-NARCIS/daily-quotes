@@ -1,5 +1,5 @@
 # Daily Quote
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> To get the full value of joy you must have someone to divide it with.
 
-— Kathleen Norris
+— Mark Twain
