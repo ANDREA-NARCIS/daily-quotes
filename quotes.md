@@ -1,5 +1,5 @@
 # Daily Quote
 
-> To get the full value of joy you must have someone to divide it with.
+> You can't cross the sea merely by standing and staring at the water.
 
-— Mark Twain
+— Rabindranath Tagore
