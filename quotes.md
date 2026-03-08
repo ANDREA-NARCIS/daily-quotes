@@ -1,5 +1,5 @@
 # Daily Quote
 
-> You can't cross the sea merely by standing and staring at the water.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 
-— Rabindranath Tagore
+— Dee Hock
