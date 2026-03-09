@@ -1,5 +1,5 @@
 # Daily Quote
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> Whoever is happy will make others happy, too.
 
-— Dee Hock
+— Mark Twain
