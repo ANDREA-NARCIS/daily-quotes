@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Whoever is happy will make others happy, too.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 
-— Mark Twain
+— Leo Buscaglia
