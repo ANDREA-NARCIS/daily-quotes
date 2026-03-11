@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Your talent is God's gift to you. What you do with it is your gift back to God.
+> I believe in one thing only, the power of human will.
 
-— Leo Buscaglia
+— Joseph Stalin
