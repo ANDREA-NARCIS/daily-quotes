@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I believe in one thing only, the power of human will.
+> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
 
-— Joseph Stalin
+— Peter Drucker
