@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 
-— Peter Drucker
+— Voltaire
