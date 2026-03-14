@@ -1,5 +1,5 @@
 # Daily Quote
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
 
-— Voltaire
+— Wayne Dyer
