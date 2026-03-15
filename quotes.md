@@ -1,5 +1,5 @@
 # Daily Quote
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> Our character is what we do when we think no one is looking.
 
-— Wayne Dyer
+— H. Jackson Brown Jr.
