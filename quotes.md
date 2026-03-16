@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Our character is what we do when we think no one is looking.
+> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
 
-— H. Jackson Brown Jr.
+— Thích Nhất Hạnh
