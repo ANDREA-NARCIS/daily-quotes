@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 
-— Marilyn Monroe
+— Antoine de Saint-Exupéry
