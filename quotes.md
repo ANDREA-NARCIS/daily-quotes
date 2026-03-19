@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 
-— Antoine de Saint-Exupéry
+— John Burroughs
