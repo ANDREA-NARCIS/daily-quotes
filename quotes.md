@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> There is only one happiness in life, to love and be loved.
 
-— John Burroughs
+— George Sand
