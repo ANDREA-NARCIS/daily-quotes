@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There is only one happiness in life, to love and be loved.
+> All action results from thought, so it is thoughts that matter.
 
-— George Sand
+— Sai Baba
