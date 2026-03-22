@@ -1,5 +1,5 @@
 # Daily Quote
 
-> All action results from thought, so it is thoughts that matter.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 
-— Sai Baba
+— Isaac Asimov
