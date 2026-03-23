@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> Those who dream by day are cognizant of many things which escape those who dream only by night.
 
-— Isaac Asimov
+— Edgar Allan Poe
