@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
+> Wisdom comes alone through suffering.
 
-— Edgar Allan Poe
+— Aeschylus
