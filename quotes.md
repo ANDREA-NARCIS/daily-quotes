@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wisdom comes alone through suffering.
+> From wonder into wonder existence opens.
 
-— Aeschylus
+— Laozi
