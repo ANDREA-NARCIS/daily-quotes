@@ -1,5 +1,5 @@
 # Daily Quote
 
-> From wonder into wonder existence opens.
+> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
 
-— Laozi
+— Abraham Lincoln
