@@ -1,5 +1,5 @@
 # Daily Quote
 
-> What we see depends mainly on what we look for.
+> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
 
-— John Lubbock
+— Muhammad Ali
