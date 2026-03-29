@@ -1,5 +1,5 @@
 # Daily Quote
 
-> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+> Write your plans in pencil and give God the eraser.
 
-— Muhammad Ali
+— Paulo Coelho
