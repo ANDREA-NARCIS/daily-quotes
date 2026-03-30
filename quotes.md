@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Write your plans in pencil and give God the eraser.
+> Wrinkles should merely indicate where smiles have been.
 
-— Paulo Coelho
+— Mark Twain
