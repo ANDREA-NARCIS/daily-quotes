@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wrinkles should merely indicate where smiles have been.
+> God always takes the simplest way.
 
-— Mark Twain
+— Albert Einstein
