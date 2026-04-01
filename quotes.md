@@ -1,5 +1,5 @@
 # Daily Quote
 
-> God always takes the simplest way.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 
-— Albert Einstein
+— Thomas Edison
