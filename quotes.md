@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 
-— Thomas Edison
+— Bernice Reagon
