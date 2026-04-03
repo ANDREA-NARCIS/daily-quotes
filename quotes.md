@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> The free man is he who does not fear to go to the end of his thought.
 
-— Bernice Reagon
+— Léon Blum
