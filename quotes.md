@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The free man is he who does not fear to go to the end of his thought.
+> A really great talent finds its happiness in execution.
 
-— Léon Blum
+— Johann Wolfgang von Goethe
