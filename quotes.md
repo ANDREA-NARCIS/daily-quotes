@@ -1,5 +1,5 @@
 # Daily Quote
 
-> A really great talent finds its happiness in execution.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 
-— Johann Wolfgang von Goethe
+— Aldous Huxley
