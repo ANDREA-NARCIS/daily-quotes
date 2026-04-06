@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> When the world is so complicated, the simple gift of friendship is within all of our hands.
 
-— Aldous Huxley
+— Maria Shriver
