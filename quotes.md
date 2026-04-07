@@ -1,5 +1,5 @@
 # Daily Quote
 
-> When the world is so complicated, the simple gift of friendship is within all of our hands.
+> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
 
-— Maria Shriver
+— Franklin D. Roosevelt
