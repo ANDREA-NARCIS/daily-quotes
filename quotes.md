@@ -1,5 +1,5 @@
 # Daily Quote
 
-> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+> A true friend is one who overlooks your failures and tolerates your success!
 
-— Franklin D. Roosevelt
+— Doug Larson
