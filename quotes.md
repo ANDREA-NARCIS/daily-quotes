@@ -1,5 +1,5 @@
 # Daily Quote
 
-> A true friend is one who overlooks your failures and tolerates your success!
+> Waste no more time arguing about what a good man should be. Be one.
 
-— Doug Larson
+— Marcus Aurelius
