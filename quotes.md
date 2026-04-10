@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Waste no more time arguing about what a good man should be. Be one.
+> And the attitude of faith is the very opposite of clinging to belief, of holding on.
 
-— Marcus Aurelius
+— Alan Watts
