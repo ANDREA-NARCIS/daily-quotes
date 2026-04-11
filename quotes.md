@@ -1,5 +1,5 @@
 # Daily Quote
 
-> And the attitude of faith is the very opposite of clinging to belief, of holding on.
+> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
 
-— Alan Watts
+— Nathaniel Hawthorne
