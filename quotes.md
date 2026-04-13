@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I know but one freedom and that is the freedom of the mind.
+> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
 
-— Antoine de Saint-Exupéry
+— Benjamin Franklin
