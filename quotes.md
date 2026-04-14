@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+> Kindness is the golden chain by which society is bound together.
 
-— Benjamin Franklin
+— Johann Wolfgang von Goethe
