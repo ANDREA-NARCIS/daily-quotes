@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Kindness is the golden chain by which society is bound together.
+> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
 
-— Johann Wolfgang von Goethe
+— Sophocles
