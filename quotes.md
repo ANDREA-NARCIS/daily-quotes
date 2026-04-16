@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
+> So long as a person is capable of self-renewal they are a living being.
 
-— Sophocles
+— Henri-Frédéric Amiel
