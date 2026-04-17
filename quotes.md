@@ -1,5 +1,5 @@
 # Daily Quote
 
-> So long as a person is capable of self-renewal they are a living being.
+> Don't settle for a relationship that won't let you be yourself.
 
-— Henri-Frédéric Amiel
+— Oprah Winfrey
