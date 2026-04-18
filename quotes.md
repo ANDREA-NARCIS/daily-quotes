@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Don't settle for a relationship that won't let you be yourself.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 
-— Oprah Winfrey
+— Eden Phillpotts
