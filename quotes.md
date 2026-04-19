@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The universe is full of magical things, patiently waiting for our wits to grow sharper.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 
-— Eden Phillpotts
+— Thomas Paine
