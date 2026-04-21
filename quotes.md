@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 
-— Horace
+— René Descartes
