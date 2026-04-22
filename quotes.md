@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> Nothing diminishes anxiety faster than action.
 
-— René Descartes
+— Walter Inglis Anderson
