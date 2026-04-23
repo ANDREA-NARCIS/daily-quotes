@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Nothing diminishes anxiety faster than action.
+> I believe that we are fundamentally the same and have the same basic potential.
 
-— Walter Inglis Anderson
+— Dalai Lama
