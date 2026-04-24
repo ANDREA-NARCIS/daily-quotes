@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
 
-— Dalai Lama
+— Anatole France
