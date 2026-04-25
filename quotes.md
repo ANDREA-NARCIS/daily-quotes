@@ -1,5 +1,5 @@
 # Daily Quote
 
-> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
+> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
 
-— Anatole France
+— Blaise Pascal
