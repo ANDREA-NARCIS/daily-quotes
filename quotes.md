@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> Can you imagine what I would do if I could do all I can?
 
-— Blaise Pascal
+— Sun Tzu
