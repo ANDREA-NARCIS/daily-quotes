@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Can you imagine what I would do if I could do all I can?
+> The world is but a canvas to the imagination.
 
-— Sun Tzu
+— Henry David Thoreau
