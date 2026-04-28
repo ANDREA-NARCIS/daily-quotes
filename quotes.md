@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The world is but a canvas to the imagination.
+> You teach best what you most need to learn.
 
-— Henry David Thoreau
+— Richard Bach
