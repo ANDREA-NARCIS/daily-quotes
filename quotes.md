@@ -1,5 +1,5 @@
 # Daily Quote
 
-> You teach best what you most need to learn.
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 
-— Richard Bach
+— Napoleon
