@@ -1,5 +1,5 @@
 # Daily Quote
 
-> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
+> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
 
-— Margaret Thatcher
+— Dalai Lama
