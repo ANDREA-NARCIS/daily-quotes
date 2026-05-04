@@ -1,5 +1,5 @@
 # Daily Quote
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> What we see depends mainly on what we look for.
 
-— Dalai Lama
+— John Lubbock
