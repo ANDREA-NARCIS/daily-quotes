@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
 
-— Norman Vincent Peale
+— Bill Bradley
