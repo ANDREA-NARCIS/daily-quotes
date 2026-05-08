@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I destroy my enemies when I make them my friends.
+> Patience is the companion of wisdom.
 
-— Abraham Lincoln
+— Augustine of Hippo
