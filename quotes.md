@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Patience is the companion of wisdom.
+> Men are disturbed not by things, but by the view which they take of them.
 
-— Augustine of Hippo
+— Epictetus
