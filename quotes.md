@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Men are disturbed not by things, but by the view which they take of them.
+> Intuition will tell the thinking mind where to look next.
 
-— Epictetus
+— Jonas Salk
