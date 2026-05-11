@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Intuition will tell the thinking mind where to look next.
+> One's friends are that part of the human race with which one can be human.
 
-— Jonas Salk
+— George Santayana
