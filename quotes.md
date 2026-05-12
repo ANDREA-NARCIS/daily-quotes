@@ -1,5 +1,5 @@
 # Daily Quote
 
-> One's friends are that part of the human race with which one can be human.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 
-— George Santayana
+— Joyce Brothers
