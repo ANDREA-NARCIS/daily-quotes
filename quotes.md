@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 
-— Joyce Brothers
+— Nikola Tesla
