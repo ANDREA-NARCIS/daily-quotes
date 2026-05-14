@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 
-— Nikola Tesla
+— Benjamin Disraeli
