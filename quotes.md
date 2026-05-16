@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> Never give up, for that is just the place and time that the tide will turn.
 
-— William Burroughs
+— Harriet Beecher Stowe
