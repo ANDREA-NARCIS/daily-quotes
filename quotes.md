@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Never give up, for that is just the place and time that the tide will turn.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 
-— Harriet Beecher Stowe
+— Mariella Frostrup
