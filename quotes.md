@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> Try not to become a man of success, but rather try to become a man of value.
 
-— Mariella Frostrup
+— Albert Einstein
