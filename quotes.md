@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Try not to become a man of success, but rather try to become a man of value.
+> Wherever a man turns he can find someone who needs him.
 
-— Albert Einstein
+— Albert Schweitzer
