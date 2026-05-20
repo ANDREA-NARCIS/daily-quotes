@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wherever a man turns he can find someone who needs him.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 
-— Albert Schweitzer
+— Samuel Beckett
