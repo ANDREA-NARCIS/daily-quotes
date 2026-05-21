@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> Start where you are. Use what you have. Do what you can.
 
-— Samuel Beckett
+— Arthur Ashe
