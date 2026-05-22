@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Start where you are. Use what you have. Do what you can.
+> Reason and free inquiry are the only effectual agents against error.
 
-— Arthur Ashe
+— Thomas Jefferson
