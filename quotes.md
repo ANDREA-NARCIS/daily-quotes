@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Reason and free inquiry are the only effectual agents against error.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 
-— Thomas Jefferson
+— Alan Watts
