@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
+> It is on our failures that we base a new and different and better success.
 
-— Alan Watts
+— Havelock Ellis
