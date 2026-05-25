@@ -1,5 +1,5 @@
 # Daily Quote
 
-> It is on our failures that we base a new and different and better success.
+> In all chaos there is a cosmos, in all disorder a secret order.
 
-— Havelock Ellis
+— Carl Jung
