@@ -1,5 +1,5 @@
 # Daily Quote
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> Wisdom often times consists of knowing what to do next.
 
-— Carl Jung
+— Herbert Hoover
