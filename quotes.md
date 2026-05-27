@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wisdom often times consists of knowing what to do next.
+> Music is a higher revelation than all wisdom and philosophy.
 
-— Herbert Hoover
+— Ludwig van Beethoven
