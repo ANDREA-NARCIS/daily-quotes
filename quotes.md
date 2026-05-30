@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Know how to listen, and you will profit even from those who talk badly.
+> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
 
-— Plutarch
+— Richard Bach
