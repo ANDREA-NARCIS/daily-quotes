@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 
-— Richard Bach
+— John Wooden
