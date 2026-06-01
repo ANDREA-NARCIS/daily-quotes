@@ -1,5 +1,5 @@
 # Daily Quote
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 
-— John Wooden
+— Vernon Cooper
