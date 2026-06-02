@@ -1,5 +1,5 @@
 # Daily Quote
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> If you think you can, you can. And if you think you can't, you're right.
 
-— Vernon Cooper
+— Henry Ford
