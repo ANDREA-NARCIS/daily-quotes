@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Friendship is one mind in two bodies.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 
-— Mencius
+— Dalai Lama
