@@ -1,5 +1,5 @@
 # Daily Quote
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> If we did the things we are capable of, we would astound ourselves.
 
-— Dalai Lama
+— Thomas Edison
