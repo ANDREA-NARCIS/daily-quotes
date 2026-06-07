@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If we did the things we are capable of, we would astound ourselves.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 
-— Thomas Edison
+— Eckhart Tolle
