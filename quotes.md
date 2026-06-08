@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> The greatest remedy for anger is delay.
 
-— Eckhart Tolle
+— Seneca the Younger
