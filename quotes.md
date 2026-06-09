@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The greatest remedy for anger is delay.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 
-— Seneca the Younger
+— Louis Pasteur
