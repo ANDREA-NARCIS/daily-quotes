@@ -1,5 +1,5 @@
 # Daily Quote
 
-> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 
-— Audrey Hepburn
+— Norman Cousins
