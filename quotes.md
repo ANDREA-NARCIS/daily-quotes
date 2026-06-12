@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
 
-— Norman Cousins
+— Dag Hammarskjöld
