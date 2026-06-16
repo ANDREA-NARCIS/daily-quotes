@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 
-— Nelson Mandela
+— Chuck Norris
