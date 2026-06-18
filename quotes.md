@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 
-— Laozi
+— Sogyal Rinpoche
