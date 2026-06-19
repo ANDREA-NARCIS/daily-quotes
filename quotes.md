@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 
-— Sogyal Rinpoche
+— Eden Phillpotts
