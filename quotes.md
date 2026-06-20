@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The universe is full of magical things, patiently waiting for our wits to grow sharper.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 
-— Eden Phillpotts
+— Thomas Edison
