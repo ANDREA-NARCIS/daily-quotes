@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 
-— Thomas Edison
+— Laozi
