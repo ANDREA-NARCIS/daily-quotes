@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The power of intuitive understanding will protect you from harm until the end of your days.
+> He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.
 
-— Laozi
+— Aeschylus
