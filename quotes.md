@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
+> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
 
-— Kahlil Gibran
+— Albert Einstein
