@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The best thing about the future is that it only comes one day at a time.
+> Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.
 
-— Abraham Lincoln
+— Woody Allen
