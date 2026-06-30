@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Obstacles are those frightful things you see when you take your eyes off your goal.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 
-— Henry Ford
+— Morris West
