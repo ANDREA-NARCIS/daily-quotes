@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
+> I don't want to achieve immortality through my work... I want to achieve it through not dying.
 
-— Morris West
+— Woody Allen
