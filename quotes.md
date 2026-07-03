@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wise men make more opportunities than they find.
+> Better to have loved and lost, than to have never loved at all.
 
-— Francis Bacon
+— Augustine of Hippo
