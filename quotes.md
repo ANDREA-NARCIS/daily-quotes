@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Better to have loved and lost, than to have never loved at all.
+> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
 
-— Augustine of Hippo
+— Anne Frank
