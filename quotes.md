@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Life shrinks or expands in proportion to one's courage.
+> We are Divine enough to ask and we are important enough to receive.
 
-— Anaïs Nin
+— Wayne Dyer
