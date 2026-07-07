@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We are Divine enough to ask and we are important enough to receive.
+> You might well remember that nothing can bring you success but yourself.
 
-— Wayne Dyer
+— Napoleon Hill
