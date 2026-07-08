@@ -1,5 +1,5 @@
 # Daily Quote
 
-> You might well remember that nothing can bring you success but yourself.
+> Wrinkles should merely indicate where smiles have been.
 
-— Napoleon Hill
+— Mark Twain
