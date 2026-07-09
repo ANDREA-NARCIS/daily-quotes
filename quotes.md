@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wrinkles should merely indicate where smiles have been.
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 
 — Mark Twain
