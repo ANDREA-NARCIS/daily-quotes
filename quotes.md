@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The exercise of an extraordinary gift is the supremist pleasure in life.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 
-— Mark Twain
+— Laozi
