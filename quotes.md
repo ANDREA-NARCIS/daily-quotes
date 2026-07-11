@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> Along with success comes a reputation for wisdom.
 
-— Laozi
+— Euripides
