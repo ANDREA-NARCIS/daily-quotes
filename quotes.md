@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Along with success comes a reputation for wisdom.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 
-— Euripides
+— Thomas Edison
