@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 
-— Thomas Edison
+— Agatha Christie
