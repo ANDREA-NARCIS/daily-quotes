@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 
-— Agatha Christie
+— Denis Waitley
