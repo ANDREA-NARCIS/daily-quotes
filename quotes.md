@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Quality is not an act; it is a habit.
+> I have done my best: that is about all the philosophy of living one needs.
 
-— Aristotle
+— Lin Yutang
