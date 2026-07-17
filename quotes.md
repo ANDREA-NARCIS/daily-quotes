@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I have done my best: that is about all the philosophy of living one needs.
+> Excellence is not a skill. It is an attitude.
 
-— Lin Yutang
+— Ralph Marston
