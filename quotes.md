@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Excellence is not a skill. It is an attitude.
+> The superior man is satisfied and composed; the mean man is always full of distress.
 
-— Ralph Marston
+— Confucius
