@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> If you want to go east, don't go west.
 
-— Confucius
+— Ramakrishna
