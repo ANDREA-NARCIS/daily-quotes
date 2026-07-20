@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you want to go east, don't go west.
+> Take rest; a field that has rested gives a bountiful crop.
 
-— Ramakrishna
+— Ovid
