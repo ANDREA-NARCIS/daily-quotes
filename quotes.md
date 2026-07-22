@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
+> To profit from good advice requires more wisdom than to give it.
 
-— Denis Waitley
+— Wilson Mizner
