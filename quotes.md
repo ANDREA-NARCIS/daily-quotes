@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I am an optimist. It does not seem too much use being anything else.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 
-— Winston Churchill
+— Dhammapada
