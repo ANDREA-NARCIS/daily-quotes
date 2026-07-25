@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
+> The eye sees only what the mind is prepared to comprehend.
 
-— Dhammapada
+— Henri Bergson
