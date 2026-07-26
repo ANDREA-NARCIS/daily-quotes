@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The eye sees only what the mind is prepared to comprehend.
+> Nothing diminishes anxiety faster than action.
 
-— Henri Bergson
+— Walter Inglis Anderson
