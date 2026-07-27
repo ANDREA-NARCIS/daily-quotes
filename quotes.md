@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Nothing diminishes anxiety faster than action.
+> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
 
-— Walter Inglis Anderson
+— Henry Ward Beecher
