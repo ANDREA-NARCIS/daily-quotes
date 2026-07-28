@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
 
-— Henry Ward Beecher
+— Confucius
