@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 
-— Confucius
+— René Descartes
