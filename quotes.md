@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 
-— René Descartes
+— Alan Watts
