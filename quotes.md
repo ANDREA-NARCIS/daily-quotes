@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We cannot be more sensitive to pleasure without being more sensitive to pain.
+> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
 
-— Alan Watts
+— Barack Obama
