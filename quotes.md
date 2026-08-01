@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 
-— Barack Obama
+— Nikola Tesla
