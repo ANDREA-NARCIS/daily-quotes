@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> The price of greatness is responsibility.
 
-— Nikola Tesla
+— Winston Churchill
