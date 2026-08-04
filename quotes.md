@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
+> Fine words and an insinuating appearance are seldom associated with true virtue
 
-— Laozi
+— Confucius
