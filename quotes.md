@@ -1,5 +1,5 @@
 # Daily Quote
 
-> A friend is, as it were, a second self.
+> Work for something because it is good, not just because it stands a chance to succeed.
 
-— Cicero
+— Václav Havel
