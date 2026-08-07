@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
 
-— Václav Havel
+— Laozi
