@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+> Every great advance in science has issued from a new audacity of the imagination.
 
-— Laozi
+— John Dewey
