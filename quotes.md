@@ -1,5 +1,5 @@
 # Daily Quote
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> Trouble is only opportunity in work clothes.
 
-— John F. Kennedy
+— Henry J. Kaiser
