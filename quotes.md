@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Trouble is only opportunity in work clothes.
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 
-— Henry J. Kaiser
+— Albert Einstein
