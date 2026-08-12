@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
 
-— Albert Einstein
+— Orson Welles
