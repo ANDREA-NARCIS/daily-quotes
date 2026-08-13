@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
+> Mistakes are always forgivable, if one has the courage to admit them.
 
-— Orson Welles
+— Bruce Lee
