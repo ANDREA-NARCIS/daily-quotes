@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> Reality does not conform to the ideal but confirms it.
 
-— Bruce Lee
+— Gustave Flaubert
