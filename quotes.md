@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Reality does not conform to the ideal but confirms it.
+> God has given you one face, and you make yourself another.
 
-— Gustave Flaubert
+— William Shakespeare
