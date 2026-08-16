@@ -1,5 +1,5 @@
 # Daily Quote
 
-> God has given you one face, and you make yourself another.
+> He who angers you conquers you.
 
-— William Shakespeare
+— Elizabeth Kenny
