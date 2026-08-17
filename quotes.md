@@ -1,5 +1,5 @@
 # Daily Quote
 
-> He who angers you conquers you.
+> If you change the way you look at things, the things you look at change.
 
-— Elizabeth Kenny
+— Wayne Dyer
