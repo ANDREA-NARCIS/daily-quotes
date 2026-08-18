@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you change the way you look at things, the things you look at change.
+> A good head and a good heart are always a formidable combination.
 
-— Wayne Dyer
+— Nelson Mandela
