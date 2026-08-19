@@ -1,5 +1,5 @@
 # Daily Quote
 
-> A good head and a good heart are always a formidable combination.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 
-— Nelson Mandela
+— Mary Kay Ash
