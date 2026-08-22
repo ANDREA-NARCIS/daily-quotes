@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Silence is the sleep that nourishes wisdom.
+> Cunning... is but the low mimic of wisdom.
 
-— Francis Bacon
+— Plato
