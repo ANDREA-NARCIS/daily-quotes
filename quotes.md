@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Cunning... is but the low mimic of wisdom.
+> To be wronged is nothing unless you continue to remember it.
 
-— Plato
+— Confucius
