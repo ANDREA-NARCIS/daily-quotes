@@ -1,5 +1,5 @@
 # Daily Quote
 
-> To be wronged is nothing unless you continue to remember it.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 
-— Confucius
+— Ralph Waldo Emerson
