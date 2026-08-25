@@ -1,5 +1,5 @@
 # Daily Quote
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
 
-— Ralph Waldo Emerson
+— Abigail Adams
