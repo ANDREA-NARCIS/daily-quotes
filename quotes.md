@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+> There is no friendship, no love, like that of the parent for the child.
 
-— Abigail Adams
+— Henry Ward Beecher
