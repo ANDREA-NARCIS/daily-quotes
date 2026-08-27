@@ -1,5 +1,5 @@
 # Daily Quote
 
-> There is no friendship, no love, like that of the parent for the child.
+> Victory belongs to the most persevering.
 
-— Henry Ward Beecher
+— Napoleon
