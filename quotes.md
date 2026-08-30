@@ -1,5 +1,5 @@
 # Daily Quote
 
-> All things change; nothing perishes.
+> Always seek out the seed of triumph in every adversity.
 
-— Ovid
+— Og Mandino
