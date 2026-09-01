@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.
+> True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.
 
-— Harbhajan Singh
+— Baltasar Gracián
