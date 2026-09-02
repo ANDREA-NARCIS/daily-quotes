@@ -1,5 +1,5 @@
 # Daily Quote
 
-> True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.
+> I think somehow, we learn who we really are and then live with that decision.
 
-— Baltasar Gracián
+— Eleanor Roosevelt
