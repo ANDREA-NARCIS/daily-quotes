@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I think somehow, we learn who we really are and then live with that decision.
+> A friend to all is a friend to none.
 
-— Eleanor Roosevelt
+— Aristotle
