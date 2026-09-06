@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Happiness does not come from having much, but from being attached to little.
+> If you think you can, you can. And if you think you can't, you're right.
 
-— Cheng Yen
+— Henry Ford
