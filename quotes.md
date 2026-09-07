@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you think you can, you can. And if you think you can't, you're right.
+> I gave my life to become the person I am right now. Was it worth it?
 
-— Henry Ford
+— Richard Bach
