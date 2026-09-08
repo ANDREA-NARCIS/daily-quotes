@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I gave my life to become the person I am right now. Was it worth it?
+> The self is not something ready-made, but something in continuous formation through choice of action.
 
-— Richard Bach
+— John Dewey
