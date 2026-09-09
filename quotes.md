@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The self is not something ready-made, but something in continuous formation through choice of action.
+> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
 
-— John Dewey
+— Thích Nhất Hạnh
