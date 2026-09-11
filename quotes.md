@@ -1,5 +1,5 @@
 # Daily Quote
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 
-— Albert Einstein
+— Farhan Akhtar
