@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> As a cure for worrying, work is better than whisky.
 
-— Farhan Akhtar
+— Thomas Edison
