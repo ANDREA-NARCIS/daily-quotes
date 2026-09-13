@@ -1,5 +1,5 @@
 # Daily Quote
 
-> As a cure for worrying, work is better than whisky.
+> To climb steep hills requires a slow pace at first.
 
-— Thomas Edison
+— William Shakespeare
