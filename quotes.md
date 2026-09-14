@@ -1,5 +1,5 @@
 # Daily Quote
 
-> To climb steep hills requires a slow pace at first.
+> Autumn is a second spring when every leaf is a flower.
 
-— William Shakespeare
+— Albert Camus
