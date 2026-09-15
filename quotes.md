@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Autumn is a second spring when every leaf is a flower.
+> Change your life today. Don't gamble on the future, act now, without delay.
 
-— Albert Camus
+— Simone de Beauvoir
