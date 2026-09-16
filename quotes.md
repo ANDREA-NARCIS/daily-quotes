@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Change your life today. Don't gamble on the future, act now, without delay.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 
-— Simone de Beauvoir
+— Henri Bergson
