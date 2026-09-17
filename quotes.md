@@ -1,5 +1,5 @@
 # Daily Quote
 
-> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 
-— Henri Bergson
+— Joan Rivers
