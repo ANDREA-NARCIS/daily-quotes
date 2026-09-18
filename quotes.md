@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
 
-— Joan Rivers
+— Richard Bach
