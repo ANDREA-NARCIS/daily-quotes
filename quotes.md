@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The awareness of our own strength makes us modest.
+> If you smile when no one else is around, you really mean it.
 
-— Paul Cézanne
+— Andy Rooney
