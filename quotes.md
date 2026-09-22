@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Whatever happens, take responsibility.
+> Write your plans in pencil and give God the eraser.
 
-— Tony Robbins
+— Paulo Coelho
