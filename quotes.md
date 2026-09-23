@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Write your plans in pencil and give God the eraser.
+> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
 
-— Paulo Coelho
+— Oprah Winfrey
