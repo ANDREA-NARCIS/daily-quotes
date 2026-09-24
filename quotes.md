@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
 
-— Oprah Winfrey
+— Margaret Laurence
