@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
+> Just trust yourself, then you will know how to live.
 
-— Margaret Laurence
+— Johann Wolfgang von Goethe
