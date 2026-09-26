@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Just trust yourself, then you will know how to live.
+> Love cures people - both the ones who give it and the ones who receive it.
 
-— Johann Wolfgang von Goethe
+— Karl Menninger
