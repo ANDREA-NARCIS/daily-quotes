@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> The best way to predict your future is to create it.
 
-— Karl Menninger
+— Peter Drucker
