@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The best way to predict your future is to create it.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 
-— Peter Drucker
+— Barack Obama
