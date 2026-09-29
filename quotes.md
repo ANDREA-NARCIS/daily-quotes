@@ -1,5 +1,5 @@
 # Daily Quote
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 
-— Barack Obama
+— Eleanor Roosevelt
