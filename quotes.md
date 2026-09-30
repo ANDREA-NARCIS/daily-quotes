@@ -1,5 +1,5 @@
 # Daily Quote
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
 
-— Eleanor Roosevelt
+— Pema Chödrön
