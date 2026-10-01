@@ -1,5 +1,5 @@
 # Daily Quote
 
-> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
+> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
 
-— Pema Chödrön
+— Sophocles
