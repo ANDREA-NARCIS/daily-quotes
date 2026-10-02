@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 
-— Sophocles
+— Joan Rivers
