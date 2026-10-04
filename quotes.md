@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Never, never, never give up.
+> Genius is one per cent inspiration, ninety-nine per cent perspiration.
 
-— Winston Churchill
+— Thomas Edison
