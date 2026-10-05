@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Genius is one per cent inspiration, ninety-nine per cent perspiration.
+> The awareness of our own strength makes us modest.
 
-— Thomas Edison
+— Paul Cézanne
