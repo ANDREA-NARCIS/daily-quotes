@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The awareness of our own strength makes us modest.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 
-— Paul Cézanne
+— Richard Bach
