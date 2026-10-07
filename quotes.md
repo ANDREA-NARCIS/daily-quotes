@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 
-— Richard Bach
+— Eckhart Tolle
