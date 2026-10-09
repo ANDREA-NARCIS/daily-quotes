@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We never live; we are always in the expectation of living.
+> Wisdom has its root in goodness, not goodness its root in wisdom.
 
-— Voltaire
+— Ralph Waldo Emerson
