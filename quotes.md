@@ -1,5 +1,5 @@
 # Daily Quote
 
-> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
+> Ideals are an imaginative understanding of that which is desirable in that which is possible.
 
-— Dalai Lama
+— Walter Lippmann
