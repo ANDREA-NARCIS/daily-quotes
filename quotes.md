@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Ideals are an imaginative understanding of that which is desirable in that which is possible.
+> People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.
 
-— Walter Lippmann
+— Rogers Hornsby
