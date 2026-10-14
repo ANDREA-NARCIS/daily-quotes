@@ -1,5 +1,5 @@
 # Daily Quote
 
-> People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.
+> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
 
-— Rogers Hornsby
+— William C. Menninger
