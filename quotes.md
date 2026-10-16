@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Well begun is half done.
+> We lost because we told ourselves we lost.
 
-— Aristotle
+— Leo Tolstoy
