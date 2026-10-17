@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We lost because we told ourselves we lost.
+> Kindness is the golden chain by which society is bound together.
 
-— Leo Tolstoy
+— Johann Wolfgang von Goethe
