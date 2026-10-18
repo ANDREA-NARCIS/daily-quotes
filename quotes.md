@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Kindness is the golden chain by which society is bound together.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 
-— Johann Wolfgang von Goethe
+— J. Willard Marriott
