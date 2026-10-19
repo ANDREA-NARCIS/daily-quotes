@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 
-— J. Willard Marriott
+— Jim Rohn
