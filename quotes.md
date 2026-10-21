@@ -1,5 +1,5 @@
 # Daily Quote
 
-> How we spend our days is, of course, how we spend our lives.
+> The gambling known as business looks with austere disfavor upon the business known as gambling.
 
-— Annie Dillard
+— Ambrose Bierce
