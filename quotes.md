@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> Keep your face always toward the sunshine - and shadows will fall behind you.
 
-— John F. Kennedy
+— Walt Whitman
