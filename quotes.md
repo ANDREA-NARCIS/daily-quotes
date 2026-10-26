@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Keep your face always toward the sunshine - and shadows will fall behind you.
+> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
 
-— Walt Whitman
+— Plotinus
