@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
+> When I let go of what I am, I become what I might be.
 
-— Plotinus
+— Laozi
