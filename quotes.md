@@ -1,5 +1,5 @@
 # Daily Quote
 
-> When I let go of what I am, I become what I might be.
+> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
 
-— Laozi
+— Zhuang Zhou
