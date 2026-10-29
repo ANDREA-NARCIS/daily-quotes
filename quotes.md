@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
+> Technology is the campfire around which we tell our stories.
 
-— Zhuang Zhou
+— Laurie Anderson
