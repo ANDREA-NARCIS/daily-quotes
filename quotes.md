@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Technology is the campfire around which we tell our stories.
+> It is impossible for a man to learn what he thinks he already knows.
 
-— Laurie Anderson
+— Epictetus
