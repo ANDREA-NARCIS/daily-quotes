@@ -1,5 +1,5 @@
 # Daily Quote
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 
-— Epictetus
+— Confucius
