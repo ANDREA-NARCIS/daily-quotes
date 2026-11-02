@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Every problem has a gift for you in its hands.
+> The best way to predict your future is to create it.
 
-— Richard Bach
+— Peter Drucker
