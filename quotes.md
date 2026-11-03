@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The best way to predict your future is to create it.
+> The best preparation for tomorrow is doing your best today.
 
-— Peter Drucker
+— H. Jackson Brown Jr.
