@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The best preparation for tomorrow is doing your best today.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 
-— H. Jackson Brown Jr.
+— Pat Riley
