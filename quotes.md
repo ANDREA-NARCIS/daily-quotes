@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.
 
-— Pat Riley
+— Harbhajan Singh
