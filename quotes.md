@@ -1,5 +1,5 @@
 # Daily Quote
 
-> When we are no longer able to change a situation - we are challenged to change ourselves.
+> Ignorance never settles a question.
 
-— Viktor Frankl
+— Benjamin Disraeli
