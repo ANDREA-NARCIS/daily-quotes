@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Ignorance never settles a question.
+> Joy is the best makeup.
 
-— Benjamin Disraeli
+— Anne Lamott
