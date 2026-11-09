@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Joy is the best makeup.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 
-— Anne Lamott
+— Blaise Pascal
