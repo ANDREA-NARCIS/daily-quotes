@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> Until you make peace with who you are, you will never be content with what you have.
 
-— Blaise Pascal
+— Doris Mortman
