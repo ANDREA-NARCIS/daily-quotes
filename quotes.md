@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Until you make peace with who you are, you will never be content with what you have.
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
 
-— Doris Mortman
+— Sydney J. Harris
