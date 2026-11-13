@@ -1,5 +1,5 @@
 # Daily Quote
 
-> The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
+> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
 
-— Babe Ruth
+— Henry Ward Beecher
