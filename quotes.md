@@ -1,5 +1,5 @@
 # Daily Quote
 
-> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 
-— Henry Ward Beecher
+— François de La Rochefoucauld
