@@ -1,5 +1,5 @@
 # Daily Quote
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> Excellence is to do a common thing in an uncommon way.
 
-— François de La Rochefoucauld
+— Booker T. Washington
