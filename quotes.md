@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Excellence is to do a common thing in an uncommon way.
+> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
 
-— Booker T. Washington
+— Confucius
