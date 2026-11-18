@@ -1,5 +1,5 @@
 # Daily Quote
 
-> He who talks more is sooner exhausted.
+> Radiate boundless love towards the entire world…
 
-— Laozi
+— The Buddha
