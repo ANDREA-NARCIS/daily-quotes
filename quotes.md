@@ -1,5 +1,5 @@
 # Daily Quote
 
-> Radiate boundless love towards the entire world…
+> I have often regretted my speech, never my silence.
 
-— The Buddha
+— Publilius Syrus
