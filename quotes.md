@@ -1,5 +1,5 @@
 # Daily Quote
 
-> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
+> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
 
-— Joseph Roux
+— Laozi
