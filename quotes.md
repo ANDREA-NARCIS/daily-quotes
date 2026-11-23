@@ -1,5 +1,5 @@
 # Daily Quote
 
-> To fly, we have to have resistance.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 
-— Maya Lin
+— A. A. Milne
