@@ -1,5 +1,5 @@
 # Daily Quote
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> I walk slowly, but I never walk backward.
 
-— A. A. Milne
+— Abraham Lincoln
