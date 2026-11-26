@@ -1,5 +1,5 @@
 # Daily Quote
 
-> I walk slowly, but I never walk backward.
+> Don't compromise yourself. You are all you've got.
 
-— Abraham Lincoln
+— Janis Joplin
